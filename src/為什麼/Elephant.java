@@ -1,4 +1,4 @@
-package test;
+package 為什麼;
 
 import java.io.FileReader;
 import java.io.IOException;
