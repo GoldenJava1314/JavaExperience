@@ -1,4 +1,4 @@
-package 確認;
+package test;
 
 import java.io.FileReader;
 import java.io.IOException;
